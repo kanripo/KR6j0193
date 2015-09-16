@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大樂金剛不空真實三昧耶經般若波羅蜜多理趣釋
+#+DATE: 2015-08-30 20:27:38.812043
+#+PROPERTY: JUAN 0
