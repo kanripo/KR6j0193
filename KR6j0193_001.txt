@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:39.289377
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:31
 #+TITLE: 大樂金剛不空真實三昧耶經般若波羅蜜多理趣釋
 #+PROPERTY: CBETA_ID T19n1003
 #+PROPERTY: ID KR6j0193
